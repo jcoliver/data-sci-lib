@@ -1,5 +1,5 @@
 # Thoughts for Data Science in Libraries paper
-## Last update 2018-03-30
+## Last update 2018-04-17
 
 See also material in `~/Documents/Projects/Data-Science/pdfs`
 
@@ -9,22 +9,36 @@ See also material in `~/Documents/Projects/Data-Science/pdfs`
     + Data science training needed, often siloed or inaccessible to most; describe the void (see white paper for some language); use Barone et al. 2017 [10.1371/journal.pcbi.1005755](https://doi.org/10.1371/journal.pcbi.1005755) for support
     + (Current support in most libraries? digital scholarship)
     + Summarize the paper, talking about how UAL has been filling void, and acknowledge the challenges
-+ Building support
++ Supporting data science
     + Introductory paragraph for the section; brief secrets of success
-    + Workshops
-        + Advertising - e-mail and word of mouth
+    + Areas of specialization
+        + R
+            + Workshop formats
+            + In-depth consulting, focusing on the life sciences
+        + GIS
+            + Software support
+            + Data support
+            + Workshops / drop-ins
+        + Data Management / Reproducibility
+            + Data management for post-docs work shop
+            + Reproducibility, including OSF
+            + Software preservation?
+        + Promotion / advertising - e-mail and word of mouth
     + Partnerships (space, resources, library as hub)
-    + Carpentries
+        + UITS machine learning, big data (space, marketing)
+        + CyVerse (Carpentries, ResBaz)
 + Challenges
     + How do build out services
         + Personnel investment
             + Hiring new
                 + Who to hire? Scientists?
+                + UA did this (JCO: Ph.D. in biology, BH: M.S. in Geography, JFR: Ph.D. in Geography, M.S. in Comp. Sci.)
                 + New training programs for data science librarians?
                     + [Syracuse University](http://ischool.syr.edu/future/cas/datascience.aspx)
                     + [UC Berkeley](https://datascience.berkeley.edu/)
             + Training current
                 + [NCSU's Data Science and Visualization Institute for Librarians](https://www.lib.ncsu.edu/datavizinstitute)
+                + Library Carpentry (UA does this)
     + Why should the library do this?
         + Internal: it is not "traditional" library stuff
         + External: why not computer science, IT, or stats depts?
