@@ -32,3 +32,32 @@ In this paper, we describe how the University of Arizona Libraries has been meet
         + UITS machine learning, big data (space, marketing)
         + CyVerse (Carpentries, ResBaz)
 
+# Supporting data science
+The University of Arizona Libraries (UAL) has significantly expanded support for data science skills development. This includes hiring additional library staff, developing digital materials, and forming new partnerships with other intramural and extramural units. The success of these efforts is evident in growing participation in library offerings (see below), and has relied on determining which areas of data science are appropriate for the library to support and which areas are better suited for our partners outside of the library.
+
+## Areas of emphasis within the library
+Investment in data sciences at UAL has supported growth in a number of areas, but three in particular have been especially popular on the University of Arizona campus. These heavily rely on the expertise of library staff, including deep domain knowledge in areas outside the library and information sciences. All three efforts have been successful by rapidly responding to campus needs, refining support offerings in response to the changing research landscape.
+
+### Computational literacy
++ Brief introduction to computational literacy and R
++ Workshop formats
+    + Specific topics, alternating with open labs
++ In-depth consulting, focusing on the life sciences
++ No python yet (although other campus resources exist)
++ Talk briefly about what worked and what did not
+
+
+### Geographical Information Systems (GIS)
+Ideally include descriptions / highlights of:
++ Software support
++ Data support
++ Workshops / drop-ins / researcher consults
++ Talk briefly about what worked and what did not
+
+### Reproducible science
+Ideally include descriptions / highlights of:
++ Data management for post-docs work shop (and other efforts along this vein)
++ Reproducibility, including OSF
++ Software preservation?
++ Talk briefly about what worked and what did not
+
