@@ -1,36 +1,16 @@
-----
+---
 title: Data Science Support at the Academic Library
-authors: Jeffrey C. Oliver, Christine Kollen, Benjamin Hickson, J. Fernando Rios, Jennifer Nichols (?)
-----
+author: Jeffrey C. Oliver, Christine Kollen, Benjamin Hickson, J. Fernando Rios
+---
 
 # Introduction
-The interdisciplinary field of data science is emerging as one of the fastest growing endeavors on and off college campuses [**REFS**]. Data science, which applies concepts from statistics and computer sciences to questions numerous domains, is driving novel discoveries across disciplines [**REFS**]. Such applications include [list three, e.g. machine learning in linguistics, social science application, health sciences - disease predictors]. However, applying such approaches requires specialized skills and resources [**LIST SKILLS**] [**REFS**]. The absence of comprehensive data science support at many academic institutions is creating a growing list of unmet needs (Oliver 2017(?); Barone et al. 2017) [**REFS**], preventing many researchers from taking advantage of the big data revolution [_REWORD_?].
+The interdisciplinary field of data science is emerging as one of the fastest growing endeavors on and off college campuses [**REFS**]. Data science, which applies concepts from statistics and computer sciences to questions numerous domains, is driving novel discoveries across disciplines [**REFS**]. Such applications include [list three, e.g. machine learning in linguistics, social science application, health sciences - disease predictors and provide **REFS**]. However, applying such approaches requires specialized skills and resources [**LIST SKILLS**] [**REFS**]. The absence of comprehensive data science support at many academic institutions is creating a growing list of unmet needs (Oliver 2017(?); Barone et al. 2017) [**REFS**], preventing many researchers from taking advantage of the big data revolution [_REWORD_?]. Such skills are critical for the modern workforce [Nat'l Acad report on undergrad education?].
 
 A number of factors are contributing to the gap in skills and resources necessary to capitalize on data science applications. The first is the relative youth of data science; while the field has arguably existed for decades [**REFS**], it has only recently attracted widespread attention across academic disciplines [**REFS**]. Many researchers are only now realizing the necessity of skills development (Barone et al. 2017), and they are often in positions where formal training is especially challenging (e.g. post-doctoral or faculty positions) [**REFS**]. Also contributing to the gap is an absence of training opportunities (**Wilson "Lessons Learned"**), often due to a lack of interest in teaching "remedial" computer programming courses [_REWORD_]. When training is offered, it often suffers from "siloing" observed on many campuses, where IT departments teach to one audience, libraries teach to another, and computer science departments teach to yet another [**REFS**]. Efforts are underway to support researchers' needs, such as Software and Data Carpentry workshops [**REFS**], yet there remain significant deficiencies in resources to support the development of data science literacy on many, if not most, campuses.
 
 Supporting data science efforts presents an opportunity for academic library engagement. Libraries serve as hubs for college and university campuses, and like the field of data science, are by definition interdisciplinary. The audience for an academic library is also arguably larger than that of any other campus unit: the library serves the _entire campus_, including students, staff, and faculty. Supporting aspects of data science in the library is not new; indeed, libraries have been supporting collection, management, and sharing best practices for many years [**REFS**] (Antell et al. 2014). Additionally, many academic libraries have been supporting researchers with computational and statistical skills (e.g. OSU Library site, NCST Library site). With this in mind, now is an opportune time for academic libraries to explicitly address the growing need for data science training.
 
 In this paper, we describe how the University of Arizona Libraries has been meeting data science needs by promoting skills and resources development. A number of approaches, including internal and external partnerships have been essential in developing a successful program. Next, we introduce some internal and external challenges libraries will face when developing support for the data sciences and propose some solutions. We close with a brief discussion of unanswered questions about the roles libraries may play in driving data science literacy efforts [_REWORD_].
-
-+ Supporting data science
-    + Introductory paragraph for the section; brief secrets of success
-    + Areas of specialization
-        + R
-            + Workshop formats
-            + In-depth consulting, focusing on the life sciences
-        + GIS
-            + Software support
-            + Data support
-            + Workshops / drop-ins
-        + Data Management / Reproducibility
-            + Data management for post-docs work shop
-            + Reproducibility, including OSF
-            + Software preservation?
-        + Promotion / advertising - e-mail and word of mouth
-    + Partnerships (space, resources, library as hub)
-        + DSRT
-        + UITS machine learning, big data (space, marketing)
-        + CyVerse (Carpentries, ResBaz)
 
 # Supporting data science
 The University of Arizona Libraries (UAL) has significantly expanded support for data science skills development. This includes hiring additional library staff, developing digital materials, and forming new partnerships with other intramural and extramural units. The success of these efforts is evident in growing participation in library offerings (see below), and has relied on determining which areas of data science are appropriate for the library to support and which areas are better suited for our partners outside of the library.
@@ -39,25 +19,35 @@ The University of Arizona Libraries (UAL) has significantly expanded support for
 Investment in data sciences at UAL has supported growth in a number of areas, but three in particular have been especially popular on the University of Arizona campus. These heavily rely on the expertise of library staff, including deep domain knowledge in areas outside the library and information sciences. All three efforts have been successful by rapidly responding to campus needs, refining support offerings in response to the changing research landscape.
 
 ### Computational literacy
-+ Brief introduction to computational literacy and R
-+ Workshop formats
-    + Specific topics, alternating with open labs
-+ In-depth consulting, focusing on the life sciences
-+ No python yet (although other campus resources exist)
-+ Talk briefly about what worked and what did not
+The need for computational skills is rapidly growing [**REFS**], and is often exceeding the capacity of current training opportunities on college campuses [**REFS**] (Wilson, lesson's learned?). The University of Arizona provides weekly workshops on the popular programming language R [R **REF**]. These two-hour sessions alternate week-to-week between two different formats: (1) a hands-on instruction session, focusing on a specific topic such as the graphics package ggplot [ggplot **REF**] and an introduction to basic statistical analyses [learn-r **REF**]; and (2) an open lab, where researchers bring their questions and code to work and get support in a positive, inclusive environment. The former (instruction session) are designed to provide "quick-wins", whereby researchers can immediately apply what they learn to their own work. However, they also offer the opportunity to teach best practices regarding reproducibility, abstraction, and automation. The latter format (open session) has been especially supportive of the R community of practice at the University of Arizona - workshop participants often help one another to solve challenges in data analysis and visualization.
 
+The design of R workshops has been an iterative process, with some implementations working better than others. The current workshop formats, alternating between focused instructional sessions and open lab sessions, arose after trying a number of approaches, with varying success. One approach employed early on was to offer very general workshops, introducing the R language from a very conceptual approach, with topics like variables, data types, and control flow. This approach left many participants wondering how to apply what they learned to their own work. This led to a switch to the topic-specific workshops, which are still general enough for a broad audience, and for the most part designed for complete novices. Another aspect of the workshops that required refinement was the duration. Initial R workshops were two full-day sessions; this was too long for many researchers, and often had considerably high attrition by the middle of the second day. Furthermore, the two-day workshop had significant duplication with Software Carpentry [SC **REF**] workshops being run on the University of Arizona Campus. In contrast, attempts at one-hour instruction sessions often failed to provide enough material to be useful. The two-hour sessions provide an ideal compromise between enough time to be useful and short enough duration to allow many full-time researchers to participate [**REFS** for this duration of workshops].
+
+In addition to formal workshops, UAL's Data Science Specialist (an author on this work, JCO) provides in-depth consults in R data analyses and visualization, focusing largely on support in the life sciences (the Data Science Specialist's own background is in bioinformatics and ecology). The largest audience for these consults is graduate students, who often have little to no formal training in computational skills [**REFS**]. Balancing the level of involvement requires careful consideration - the library cannot offer a concierge data analyst service to every researchers on campus, but consults can provide an opportunity for true collaboration and deeper learning. Communicating clear expectations and understanding other campus resources that provide support, such as statistical consulting centers, is critical for meaningful, appropriate computational literacy support to the University of Arizona research community.
+
+The University of Arizona Libraries also provides limited support for the Python programming language [Python **REFS**]. This limited support is largely driven by two factors. First, when computational literacy support programming was being developed, many life science researchers were requesting R support, rather than Python [Python and R in life sciences **REFS**]. Second, other campus units support Python programming, thus R programming represented a greater unmet need when the workshops were being developed. However, through conversations with R workshop participants it is increasingly evident that there remains an unmet need for Python skills development in the life sciences. Should a library face the choice of offering R or Python support, assessing researchers' needs would be invaluable in making an impactful decision.
 
 ### Geographical Information Systems (GIS)
 Ideally include descriptions / highlights of:
+
 + Software support
 + Data support
 + Workshops / drop-ins / researcher consults
-+ Talk briefly about what worked and what did not
++ Talk briefly about what worked and what did not (including marketing / participation)
 
 ### Reproducible science
 Ideally include descriptions / highlights of:
+
 + Data management for post-docs work shop (and other efforts along this vein)
 + Reproducibility, including OSF
 + Software preservation?
-+ Talk briefly about what worked and what did not
++ Talk briefly about what worked and what did not (including marketing / participation)
 
+### Promotion & advertising
+A constant consideration, not unique to data science services, is that of finding the appropriate media for effectively communicating library services with the audiences that would benefit from those services [**REFS**]. In many cases, once a critical mass has been reached, there has been no better means of promotion than word of mouth. Colleague recommendations have driven many new users to library services, including R workshops and consultations, GIS support, and assistance with data management practices [**BEN**, **CHRIS**, **FERNANDO**, please verify the preceding statement]. However, reaching that critical mass can be challenging. The relatively static medium of web pages provides some details on events and services, but requires the audience to already be looking for those services on the library web page [**REFS**]. In our experience, the best means of self-promotion has been e-mail messaging. Joining mailing lists [such as grad students? post-docs? others?] has allowed broadcasting services to broad, yet appropriate audiences. Working with academic coordinators of specific majors or departments has also been effective for forwarding announcements for workshops or training events. While this can add some administrative burden to library staff (i.e. sending an e-mail to each of fifteen different program coordinators), it has worked better than impersonal, _en masse_ e-mail messages. [_Anyone collected data on how folks hear about a workshop?_] [_better closing_].
+
+## Partnerships outside the library
++ Partnerships (space, resources, library as hub)
+    + DSRT
+    + UITS machine learning, big data (space, marketing)
+    + CyVerse (Carpentries, ResBaz)
