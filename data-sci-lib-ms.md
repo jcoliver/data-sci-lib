@@ -37,6 +37,19 @@ Ideally include descriptions / highlights of:
 + Talk briefly about what worked and what did not (including marketing / participation)
 
 ### Reproducible science [**FERNANDO**, **CHRIS**]
+As a cornerstone of the scientific process, the ability to verify research claims by repeating the process using one or all of the same methods, materials, data, and software, is of the utmost importance to not only maintain the credibility and reliability of research, but also to enable others to build on the work. Although there is no universally accepted definition of the term "reproducibility" (cite Barba, 2018 <https://arxiv.org/abs/1802.03311>), it is used here to mean the ability to examine and verify the claims supported by the application of tools and methods from data science as defined in the introduction section.
+
+Data science and reproducibility go hand-in-hand: good data science practice enables reproducibility and good research practices in other parts of the research process (e.g., data collection and data management) enables good data science. For example, when designing experiments and interpreting data, keeping in mind the difference between exploratory and confirmatory research and avoiding p-hacking (selective reporting of data to obtain statistical significance), HARKing (hypothesizing after the results are known; Kerr, 1998 <https://doi.org/10.1207%2Fs15327957pspr0203_4>) enables the proper application of statistical tools in data science. In the process of applying data science tools for computational analyses, following best practices for the organization of data files and code (i.e., separate directories that clearly identify inputs, outputs, and code), using interoperable file formats, or by using purpose-built tools for code and data analysis and documentation, such as Jupyter Notebooks (Kluyver et al. 2016 see here for citation <https://github.com/jupyter/jupyter/issues/190#issuecomment-361494337>), also promote reproducibility. 
+
+Although many academic libraries (including UAL) already have expertise to support one or more aspects of data-intensive and computational research, the knowledge is usually distributed amongst data management, geospatial, digital humanities, and data science specialists (cite Sayre & Riegelman, 2018 <https://crl.acrl.org/index.php/crl/article/view/16846>). The idea of personnel dedicated to reproducibility is still quite novel but the combination of reproducibility and data science support is a natural one (as exemplified in Steeves, 2017; <https://digitalcommons.du.edu/collaborativelibrarianship/vol9/iss2/4/>).
+
+At UAL, support for reproducibility has taken the form of integrating best practices for data management, promotion of scripting/software to automate workflows, and advocating for open research practices into workshops and lectures.
+
+- posdocs
+- UROC
+- OSF workshop
+- future: research computing collab
+
 Ideally include descriptions / highlights of:
 
 + Reproducibility introduction and relevance to data science
