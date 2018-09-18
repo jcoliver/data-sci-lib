@@ -111,15 +111,17 @@ Conrad, O., B. Bechtel, M. Bock, H. Dietrich, E. Fischer, L. Gerlitz, J. Wehberg
 
 Donoho, David. "50 Years of Data Science." Journal of Computational and Graphical Statistics 26, no. 4 (2017): 745-766. doi:10.1080/10618600.2017.1384734.
 
-Environmental Systems, Research I. "ArcGIS." . https://www.esri.com/en-us/store/arcgis-desktop.
+Moore-Sloan Data Science Environments. Creating Institutional Change in Data Science, 2018. http://msdse.org/creating_institutional_change.html.
 
-Foundation, Python Software. Python Language Reference 2018. https://www.python.org.
+Python Software Foundation. Python Language Reference 2018. https://www.python.org.
 
 Galanek, J. D. and D. C. Brooks. Supporting Faculty Research with Information Technology. Research Report: Educause Center for Analysis and Research, 2018.
 
 Garcia-Milian, R., D. Hersey, M. Vukmirovic, and F. Duprilot. "Data Challenges of Biomedical Researchers in the Age of Omics." PeerJ 6, (2018): e5553. doi:10.7717/peerj.5553.
 
 Huppenkothen, Daniela, Anthony Arendt, David W. Hogg, Karthik Ram, Jacob T. VanderPlas, and Ariel Rokem. "Hack Weeks as a Model for Data Science Education and Collaboration." Proceedings of the National Academy of Sciences of the United States of America 115, no. 36 (2018): 8872-8877. doi:10.1073/pnas.1717196115.
+
+Environmental Systems Research Institute (ESRI). "ArcGIS." (2018). https://www.esri.com/en-us/store/arcgis-desktop.
 
 Ioannidis, J. P. A. "Why most Published Research Findings are False." Plos Medicine 2, no. 8 (2005): 696-701. doi:10.1371/journal.pmed.0020124.
 
@@ -135,29 +137,27 @@ Lancaster, Jenessa, Romy Lorenz, Rob Leech, and James H. Cole. "Bayesian Optimiz
 
 Merchant, Nirav, Eric Lyons, Stephen Goff, Matthew Vaughn, Doreen Ware, David Micklos, and Parker Antin. "The iPlant Collaborative: Cyberinfrastructure for Enabling Data to Discovery for the Life Sciences." Plos Biology 14, no. 1 (2016): e1002342.
 
-Moore-Sloan Data, Science Environments. Creating Institutional Change in Data Science, 2018. http://msdse.org/creating_institutional_change.html.
-
 National Academies of Sciences, Engineering, and Medicine. Data Science for Undergraduates: Opportunities and Options. Washington, DC: The National Academies Press, 2018. doi:10.17226/25104. https://www.nap.edu/catalog/25104/data-science-for-undergraduates-opportunities-and-options.
 
 Nowviskie, Bethany. "Skunks in the Library: A Path to Production for Scholarly R&D." Journal of Library Administration 53, no. 1 (2013): 53-66. doi:10.1080/01930826.2013.756698. https://doi.org/10.1080/01930826.2013.756698.
 
 Oliver, Jeffrey C. "Bioinformatic Training Needs at a Health Sciences Campus." Plos One 12, no. 6 (JUN 14, 2017). doi:10.1371/journal.pone.0179581.
 
-QGIS, Development T. "QGIS Geographic Information System." Open Source Geospatial Foundation Project. http://qgis.osgeo.org.
-
 Rubinstein, Amir and Benny Chor. "Computational Thinking in Life Science Education." Plos Computational Biology 10, no. 11 (NOV, 2014). doi:10.1371/journal.pcbi.1003897.
 
 Sayre, Franklin and Amy Riegelman. "The Reproducibility Crisis and Academic Libraries." College & Research Libraries 79, no. 1 (2018): 2-9. doi:10.5860/crl.79.1.2.
 
-Spies, J. R. "The Open Science Framework: Improving Science by Making it Open and Accessible."University of Virginia, 2013. https://dl.acm.org/citation.cfm?id=2539283.
+Spies, J. R. "The Open Science Framework: Improving Science by Making it Open and Accessible." University of Virginia, 2013. https://dl.acm.org/citation.cfm?id=2539283.
 
 Steeves, V. "Reproducibility Librarianship." Collaborative Librarianship 9, no. 2 (2017): 4. https://digitalcommons.du.edu/collaborativelibrarianship/vol9/iss2/4.
 
 Stingone, Jeanette A., Om P. Pandey, Luz Claudio, and Gaurav Pandey. "Using Machine Learning to Identify Air Pollution Exposure Profiles Associated with Early Cognitive Skills among US Children." Environmental Pollution 230, (NOV, 2017): 730-740. doi:10.1016/j.envpol.2017.07.023.
 
-Team, GRASS Development. Geographic Resources Analysis Support System (GRASS GIS) Software, Version 7.2 Open Source Geospatial Foundation, 2017. http://grass.osgeo.org.
+GRASS Development Team. Geographic Resources Analysis Support System (GRASS GIS) Software, Version 7.2 Open Source Geospatial Foundation, 2017. http://grass.osgeo.org.
 
-Team, R. Core. R: A Language and Environment for Statistical Computing. Vienna, Austria: R Foundation for Statistical Computing, 2018. https://www.R-project.org.
+QGIS Development Team. "QGIS Geographic Information System." (2018). http://qgis.osgeo.org.
+
+R Core Team. R: A Language and Environment for Statistical Computing. Vienna, Austria: R Foundation for Statistical Computing, 2018. https://www.R-project.org.
 
 Tenopir, C., D. Hughes, S. Allard, M. Frame, B. Birch, L. Baird, R. Sandusky, M. Langseth, and A. Lundeen. "Research Data Services in Academic Libraries: Data Intensive Roles for the Future?" Journal of eScience Librarianship 4, no. 2 (2015): e1085. doi:10.7191/jeslib.2015.1085.
 
