@@ -3,6 +3,8 @@ title: Data Science Support at the Academic Library
 author: Jeffrey C. Oliver, Christine Kollen, Benjamin Hickson, J. Fernando Rios
 ---
 
+# Abstract
+
 # Introduction
 The interdisciplinary field of data science is emerging as one of the fastest growing endeavors on and off college campuses. Data science, which applies concepts from statistics and computer sciences to questions in numerous domains, is driving novel discoveries across disciplines. Such applications include automated linguistic analysis for "just in time" action in online support forums (Kornfield et al. 2018), neuroimage processing for predicting health outcomes (Lancaster et al. 2018), and relationships between environmental variation and childhood cognitive development (Stingone et al. 2017). However, applying such approaches requires specialized skills and resources, including computer programming and data visualization. Such skills are critical for the modern workforce (National Academies of Sciences, Engineering, and Medicine, 2018). The absence of comprehensive data science support at many academic institutions is creating a growing list of unmet needs (Oliver 2017; Barone et al. 2017; Galanek & Brooks 2018; Garcia-Milian et al. 2018), preventing many researchers from taking advantage of the big data revolution.
 
@@ -19,7 +21,7 @@ The University of Arizona Libraries (UAL) has significantly expanded support for
 Investment in data sciences at UAL has supported growth in a number of areas, but three in particular have been especially popular on the University of Arizona campus. These heavily rely on the expertise of library staff, including deep domain knowledge in areas outside the library and information sciences. All three efforts have been successful by rapidly responding to campus needs and refining support offerings in response to the changing research landscape.
 
 ### Computational literacy
-The need for computational skills is rapidly growing and is often exceeding the capacity of current training opportunities on college campuses (Wilson 2016). The University of Arizona provides weekly workshops on the popular programming language R (R Core Team 2018). These two-hour sessions alternate week-to-week between two different formats: (1) a hands-on instruction session, focusing on a specific topic such as the graphics package ggplot (Wickham 2016) or an introduction to basic statistical analyses; and (2) an open lab, where researchers bring their questions and code to work and get support in a positive, inclusive environment. The former (instruction session) are designed to provide "quick-wins", whereby researchers can immediately apply what they learn to their own work. However, they also offer the opportunity to teach best practices regarding reproducibility, abstraction, and automation. The latter format (open session) has been especially supportive of the R community of practice at the University of Arizona - workshop participants often help one another to solve challenges in data analysis and visualization. These workshops align with a number of the "Ten simple rules for biologists learning to program" (Carey & Papin 2018), including "begin with the end in mind", "develop good habits early on", and "phone a friend."
+The need for computational skills is rapidly growing and is often exceeding the capacity of current training opportunities on college campuses (Wilson 2016). The University of Arizona provides weekly workshops on the popular programming language R (R Core Team 2018). These two-hour sessions alternate week-to-week between two different formats: (1) a hands-on instruction session, focusing on a specific topic such as the graphics package ggplot (Wickham 2016) or an introduction to basic statistical analyses ([https://jcoliver.github.io/learn-r](https://jcoliver.github.io/learn-r)); and (2) an open lab, where researchers bring their questions and code to work and get support in a positive, inclusive environment. The former (instruction session) are designed to provide "quick-wins", whereby researchers can immediately apply what they learn to their own work. However, they also offer the opportunity to teach best practices regarding reproducibility, abstraction, and automation. The latter format (open session) has been especially supportive of the R community of practice at the University of Arizona - workshop participants often help one another to solve challenges in data analysis and visualization. These workshops align with a number of the "Ten simple rules for biologists learning to program" (Carey & Papin 2018), including "begin with the end in mind", "develop good habits early on", and "phone a friend."
 
 The design of R workshops has been an iterative process, with some implementations working better than others. The current workshop formats, alternating between focused instructional sessions and open lab sessions, arose after trying a number of approaches, with varying success. One approach employed early on was to offer very general workshops, introducing the R language from a very conceptual approach, with topics like variables, data types, and control flow. This approach left many participants wondering how to apply what they learned to their own work. This led to a switch to the topic-specific workshops, which are still general enough for a broad audience, and for the most part designed for novices. Another aspect of the workshops that required refinement was the duration. Initial R workshops were two full-day sessions; this was too long for many researchers, and often had considerably high attrition by the middle of the second day. Furthermore, the two-day workshop had significant duplication with Software Carpentry ([https://software-carpentry.org/](https://software-carpentry.org/)) workshops being run on the University of Arizona campus. In contrast, attempts at one-hour instruction sessions often failed to provide enough material to be useful. The two-hour sessions provide an ideal compromise between enough time to be useful and short enough duration to allow many full-time researchers to participate.
 
@@ -86,6 +88,7 @@ Alternatively, libraries could hire specialists with education and expertise out
 The opportunities to engage with researchers in the realm of data science are rapidly growing. Given interest in "big data" approaches, the only question for academic libraries is "how". Assessing campus data science literacy needs can guide the mode and type of personnel development, either training existing staff or hiring new staff. The pace of change in data science also requires agility to try new services, sometimes even when those services disrupt the model of the "traditional" library. Support from library administration for data science "skunkworks", like those advocated for digital scholarship  (Nowviskie 2013), affords freedom to capitalize on new opportunities as they arise. The expanding data science ecosystem offers a new mode of engagement with campus researchers that would solidify the academic library's position as a campus hub for the data-driven twenty-first century.
 
 # References
+
 Aarts, Alexander A., Joanna E. Anderson, Christopher J. Anderson, Peter R. Attridge, Angela Attwood, Jordan Axt, Molly Babel, et al. "Estimating the Reproducibility of Psychological Science." Science 349, no. 6251 (2015): aa4716. doi:10.1126/science.aac4716.
 
 Allaire, J. J., Yihui Xie, Jonathan McPherson, Javier Luraschi, Kevin Ushey, Aron Atkins, Hadley Wickham, Joe Cheng, and Winston Chang. Rmarkdown: Dynamic Documents for R 2018. https://CRAN.R-project.org/package=rmarkdown.
@@ -97,6 +100,8 @@ Baker, J., C. Moore, E. Priego, R. Alegre, J. Cope, L. Price, O. Stephens, D. va
 Barba, Lorena A. "Terminologies for Reproducible Research." CoRR abs/1802.03311, (2018). http://arxiv.org/abs/1802.03311.
 
 Barone, Lindsay, Jason Williams, and David Micklos. "Unmet Needs for Analyzing Biological Big Data: A Survey of 704 NSF Principal Investigators." Plos Computational Biology 13, no. 10 (OCT, 2017). doi:10.1371/journal.pcbi.1005755.
+
+Burton, Matt, Liz Lyon, Chris Erdmann, and Bonnie Tijernia. Shifting to Data Savvy: The Future of Data Science in Libraries: University of Pittsburgh, 2018. http://d-scholarship.pitt.edu/id/eprint/33891.
 
 Camerer, Colin F., Anna Dreber, Eskil Forsell, Teck-Hua Ho, Juergen Huber, Magnus Johannesson, Michael Kirchler, et al. "Evaluating Replicability of Laboratory Experiments in Economics." Science 351, no. 6280 (2016): 1433-1436. doi:10.1126/science.aaf0918.
 
@@ -122,13 +127,19 @@ Kerr, N. L. "HARKing: Hypothesizing After the Results are Known." Personality an
 
 Kluyver, Thomas, Benjamin Ragan-Kelley, Fernando Pérez, Brian Granger, Matthias Bussonnier, Jonathan Frederic, Kyle Kelley, et al. "Jupyter Notebooks -- a Publishing Format for Reproducible Computational Workflows."IOS Press, 2016. doi:10.3233/978-1-61499-649-1-87. http://ebooks.iospress.nl/publication/42900.
 
+Knuth, D. E. "Literate Programming." Computer Journal 27, no. 2 (1984): 97-111.
+
 Kornfield, Rachel, Prathusha K. Sarma, V. Shah Dhavan, Fiona McTavish, Gina Landucci, Klaren Pe-Romashko, and David H. Gustafson. "Detecting Recovery Problems just in Time: Application of Automated Linguistic Analysis and Supervised Machine Learning to an Online Substance Abuse Forum." Journal of Medical Internet Research 20, no. 6 (JUN, 2018). doi:10.2196/10136.
 
 Lancaster, Jenessa, Romy Lorenz, Rob Leech, and James H. Cole. "Bayesian Optimization for Neuroimaging Pre-Processing in Brain Age Classification and Prediction." Frontiers in Aging Neuroscience 10, (FEB 12, 2018). doi:10.3389/fnagi.2018.00028.
 
+Merchant, Nirav, Eric Lyons, Stephen Goff, Matthew Vaughn, Doreen Ware, David Micklos, and Parker Antin. "The iPlant Collaborative: Cyberinfrastructure for Enabling Data to Discovery for the Life Sciences." Plos Biology 14, no. 1 (2016): e1002342.
+
 Moore-Sloan Data, Science Environments. Creating Institutional Change in Data Science, 2018. http://msdse.org/creating_institutional_change.html.
 
 National Academies of Sciences, Engineering, and Medicine. Data Science for Undergraduates: Opportunities and Options. Washington, DC: The National Academies Press, 2018. doi:10.17226/25104. https://www.nap.edu/catalog/25104/data-science-for-undergraduates-opportunities-and-options.
+
+Nowviskie, Bethany. "Skunks in the Library: A Path to Production for Scholarly R&D." Journal of Library Administration 53, no. 1 (2013): 53-66. doi:10.1080/01930826.2013.756698. https://doi.org/10.1080/01930826.2013.756698.
 
 Oliver, Jeffrey C. "Bioinformatic Training Needs at a Health Sciences Campus." Plos One 12, no. 6 (JUN 14, 2017). doi:10.1371/journal.pone.0179581.
 
