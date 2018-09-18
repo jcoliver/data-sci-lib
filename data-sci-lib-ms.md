@@ -86,3 +86,76 @@ Alternatively, libraries could hire specialists with education and expertise out
 The opportunities to engage with researchers in the realm of data science are rapidly growing. Given interest in "big data" approaches, the only question for academic libraries is "how". Assessing campus data science literacy needs can guide the mode and type of personnel development, either training existing staff or hiring new staff. The pace of change in data science also requires agility to try new services, sometimes even when those services disrupt the model of the "traditional" library. Support from library administration for data science "skunkworks", like those advocated for digital scholarship  (Nowviskie 2013), affords freedom to capitalize on new opportunities as they arise. The expanding data science ecosystem offers a new mode of engagement with campus researchers that would solidify the academic library's position as a campus hub for the data-driven twenty-first century.
 
 # References
+Aarts, Alexander A., Joanna E. Anderson, Christopher J. Anderson, Peter R. Attridge, Angela Attwood, Jordan Axt, Molly Babel, et al. "Estimating the Reproducibility of Psychological Science." Science 349, no. 6251 (2015): aa4716. doi:10.1126/science.aac4716.
+
+Allaire, J. J., Yihui Xie, Jonathan McPherson, Javier Luraschi, Kevin Ushey, Aron Atkins, Hadley Wickham, Joe Cheng, and Winston Chang. Rmarkdown: Dynamic Documents for R 2018. https://CRAN.R-project.org/package=rmarkdown.
+
+Antell, Karen, Jody Bales Foote, Jaymie Turner, and Brian Shults. "Dealing with Data: Science Librarians' Participation in Data Management at Association of Research Libraries Institutions." College \& Research Libraries 75, no. 4 (JUL, 2014): 557-574. doi:10.5860/crl.75.4.557.
+
+Baker, J., C. Moore, E. Priego, R. Alegre, J. Cope, L. Price, O. Stephens, D. van Strien, and G. Wilson. "Library Carpentry: Software Skills Training for Library Professionals." Liber Quarterly : The Journal of European Research Libraries 26, no. 3 (2016): 141-162. doi:10.18352/lq.10176.
+
+Barba, Lorena A. "Terminologies for Reproducible Research." CoRR abs/1802.03311, (2018). http://arxiv.org/abs/1802.03311.
+
+Barone, Lindsay, Jason Williams, and David Micklos. "Unmet Needs for Analyzing Biological Big Data: A Survey of 704 NSF Principal Investigators." Plos Computational Biology 13, no. 10 (OCT, 2017). doi:10.1371/journal.pcbi.1005755.
+
+Camerer, Colin F., Anna Dreber, Eskil Forsell, Teck-Hua Ho, Juergen Huber, Magnus Johannesson, Michael Kirchler, et al. "Evaluating Replicability of Laboratory Experiments in Economics." Science 351, no. 6280 (2016): 1433-1436. doi:10.1126/science.aaf0918.
+
+Carey, Maureen A. and Jason A. Papin. "Ten Simple Rules for Biologists Learning to Program." Plos Computational Biology 14, no. 1 (JAN, 2018). doi:10.1371/journal.pcbi.1005871.
+
+Conrad, O., B. Bechtel, M. Bock, H. Dietrich, E. Fischer, L. Gerlitz, J. Wehberg, V. Wichmann, and J. Böhner. "System for Automated Geoscientific Analyses (SAGA) V. 2.1.4." Geoscientific Model Development 8, (2015): 1991-2007. doi:10.5194/gmd-8-1991-2015.
+
+Donoho, David. "50 Years of Data Science." Journal of Computational and Graphical Statistics 26, no. 4 (2017): 745-766. doi:10.1080/10618600.2017.1384734.
+
+Environmental Systems, Research I. "ArcGIS." . https://www.esri.com/en-us/store/arcgis-desktop.
+
+Foundation, Python Software. Python Language Reference 2018. https://www.python.org.
+
+Galanek, J. D. and D. C. Brooks. Supporting Faculty Research with Information Technology. Research Report: Educause Center for Analysis and Research, 2018.
+
+Garcia-Milian, R., D. Hersey, M. Vukmirovic, and F. Duprilot. "Data Challenges of Biomedical Researchers in the Age of Omics." PeerJ 6, (2018): e5553. doi:10.7717/peerj.5553.
+
+Huppenkothen, Daniela, Anthony Arendt, David W. Hogg, Karthik Ram, Jacob T. VanderPlas, and Ariel Rokem. "Hack Weeks as a Model for Data Science Education and Collaboration." Proceedings of the National Academy of Sciences of the United States of America 115, no. 36 (2018): 8872-8877. doi:10.1073/pnas.1717196115.
+
+Ioannidis, J. P. A. "Why most Published Research Findings are False." Plos Medicine 2, no. 8 (2005): 696-701. doi:10.1371/journal.pmed.0020124.
+
+Kerr, N. L. "HARKing: Hypothesizing After the Results are Known." Personality and Social Psychology Review : An Official Journal of the Society for Personality and Social Psychology, Inc 2, no. 3 (1998): 196-217. doi:10.1207/s15327957pspr0203_4.
+
+Kluyver, Thomas, Benjamin Ragan-Kelley, Fernando Pérez, Brian Granger, Matthias Bussonnier, Jonathan Frederic, Kyle Kelley, et al. "Jupyter Notebooks -- a Publishing Format for Reproducible Computational Workflows."IOS Press, 2016. doi:10.3233/978-1-61499-649-1-87. http://ebooks.iospress.nl/publication/42900.
+
+Kornfield, Rachel, Prathusha K. Sarma, V. Shah Dhavan, Fiona McTavish, Gina Landucci, Klaren Pe-Romashko, and David H. Gustafson. "Detecting Recovery Problems just in Time: Application of Automated Linguistic Analysis and Supervised Machine Learning to an Online Substance Abuse Forum." Journal of Medical Internet Research 20, no. 6 (JUN, 2018). doi:10.2196/10136.
+
+Lancaster, Jenessa, Romy Lorenz, Rob Leech, and James H. Cole. "Bayesian Optimization for Neuroimaging Pre-Processing in Brain Age Classification and Prediction." Frontiers in Aging Neuroscience 10, (FEB 12, 2018). doi:10.3389/fnagi.2018.00028.
+
+Moore-Sloan Data, Science Environments. Creating Institutional Change in Data Science, 2018. http://msdse.org/creating_institutional_change.html.
+
+National Academies of Sciences, Engineering, and Medicine. Data Science for Undergraduates: Opportunities and Options. Washington, DC: The National Academies Press, 2018. doi:10.17226/25104. https://www.nap.edu/catalog/25104/data-science-for-undergraduates-opportunities-and-options.
+
+Oliver, Jeffrey C. "Bioinformatic Training Needs at a Health Sciences Campus." Plos One 12, no. 6 (JUN 14, 2017). doi:10.1371/journal.pone.0179581.
+
+QGIS, Development T. "QGIS Geographic Information System." Open Source Geospatial Foundation Project. http://qgis.osgeo.org.
+
+Rubinstein, Amir and Benny Chor. "Computational Thinking in Life Science Education." Plos Computational Biology 10, no. 11 (NOV, 2014). doi:10.1371/journal.pcbi.1003897.
+
+Sayre, Franklin and Amy Riegelman. "The Reproducibility Crisis and Academic Libraries." College & Research Libraries 79, no. 1 (2018): 2-9. doi:10.5860/crl.79.1.2.
+
+Spies, J. R. "The Open Science Framework: Improving Science by Making it Open and Accessible."University of Virginia, 2013. https://dl.acm.org/citation.cfm?id=2539283.
+
+Steeves, V. "Reproducibility Librarianship." Collaborative Librarianship 9, no. 2 (2017): 4. https://digitalcommons.du.edu/collaborativelibrarianship/vol9/iss2/4.
+
+Stingone, Jeanette A., Om P. Pandey, Luz Claudio, and Gaurav Pandey. "Using Machine Learning to Identify Air Pollution Exposure Profiles Associated with Early Cognitive Skills among US Children." Environmental Pollution 230, (NOV, 2017): 730-740. doi:10.1016/j.envpol.2017.07.023.
+
+Team, GRASS Development. Geographic Resources Analysis Support System (GRASS GIS) Software, Version 7.2 Open Source Geospatial Foundation, 2017. http://grass.osgeo.org.
+
+Team, R. Core. R: A Language and Environment for Statistical Computing. Vienna, Austria: R Foundation for Statistical Computing, 2018. https://www.R-project.org.
+
+Tenopir, C., D. Hughes, S. Allard, M. Frame, B. Birch, L. Baird, R. Sandusky, M. Langseth, and A. Lundeen. "Research Data Services in Academic Libraries: Data Intensive Roles for the Future?" Journal of eScience Librarianship 4, no. 2 (2015): e1085. doi:10.7191/jeslib.2015.1085.
+
+Valle, D. and A. Berdanier. "Computer Programming Skills for Environmental Sciences." Bulletin of the Ecological Society of America 93, no. 4 (2012): 373-389. doi:10.1890/0012-9623-93.4.373.
+
+Wickham, Hadley. Ggplot2: Elegant Graphics for Data Analysis Springer-Verlag New York, 2016. http://ggplot2.org.
+
+Wilson, G. "Software Carpentry: Lessons Learned." F1000Research 3, (2016): 24. doi:10.12688/f1000research.3-62.v2.
+
+Xie, Yihui. "Knitr: A Comprehensive Tool for Reproducible Research in R." In Implementing Reproducible Computational Research, edited by Stodden, Victoria, Friedrich Leisch and Roger D. Peng: Chapman and Hall/CRC, 2014. http://www.crcpress.com/product/isbn/9781466561595.
+
+Ye, Hao, Michael Brown, and Jenny Harding. "GIS for all: Exploring the Barriers and Opportunities for Underexploited GIS Applications." Nottingham, UK, 2013. doi:10.7275/R5W66J0K. https://scholarworks.umass.edu/foss4g/vol13/iss1/4.
