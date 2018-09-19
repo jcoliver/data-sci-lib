@@ -5,12 +5,7 @@ author: Jeffrey C. Oliver, Christine Kollen, Benjamin Hickson, J. Fernando Rios
 
 # Abstract
 
-+ Data science growing
-+ Lots of unmet needs
-+ ..by providing support in computational literacy, geographic information
-+ systems (GIS), and reproducible science.
-+ Success depends on partnership
-+ Recommendations on how to grow library DS support
+Data science is a rapidly growing field with applications across all scientific domains. The demand for support in data science literacy is outpacing available resources at college campuses. The academic library is uniquely positioned to provide training in a number areas relevant to data science. The University of Arizona Libraries has built a successful data science support program, focusing on computational literacy, geographic information systems, and reproducible science. Success of the program has largely been due to the strength of library personnel and strategic partnerships with units outside of the library. Academic libraries can support campus data science needs through professional development of current staff and recruitment of new personnel with expertise in data-intensive domains.
 
 # Introduction
 The interdisciplinary field of data science is emerging as one of the fastest growing endeavors on and off college campuses. Data science, which applies concepts from statistics and computer sciences to questions in numerous domains, is driving novel discoveries across disciplines. Such applications include automated linguistic analysis for "just in time" action in online support forums^1^, neuroimage processing for predicting health outcomes^2^, and relationships between environmental variation and childhood cognitive development^3^. However, applying such approaches requires specialized skills and resources, including computer programming and data visualization. Such skills are critical for the modern workforce.^4^ The absence of comprehensive data science support at many academic institutions is creating a growing list of unmet needs^5-8^, preventing many researchers from taking advantage of the big data revolution.
