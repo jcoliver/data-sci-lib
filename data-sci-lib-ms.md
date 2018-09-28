@@ -1,14 +1,19 @@
----
-title: Data Science Support at the Academic Library
-author: Jeffrey C. Oliver, Christine Kollen, Benjamin J. Hickson,  Fernando Rios
----
+**Title:** Data Science Support at the Academic Library  
+**Authors:**  Jeffrey C. Oliver^1,2^, Christine Kollen^1^, Benjamin J. Hickson^1^, J. Fernando Rios^1^  
+
+^1^Office of Digital Innovation and Stewardship, University Libraries, University of Arizona, Tucson, AZ, 85721, USA.  
+^2^To whom correspondence should be addressed, jcoliver@email.arizona.edu
+
+\newpage
+
+**Title:** Data Science Support at the Academic Library
 
 # Abstract
 
 Data science is a rapidly growing field with applications across all scientific domains. The demand for support in data science literacy is outpacing available resources at college campuses. The academic library is uniquely positioned to provide training and guidance in a number areas relevant to data science. The University of Arizona Libraries has built a successful data science support program, focusing on computational literacy, geographic information systems, and reproducible science. Success of the program has largely been due to the strength of library personnel and strategic partnerships with units outside of the library. Academic libraries can support campus data science needs through professional development of current staff and recruitment of new personnel with expertise in data-intensive domains.
 
 # Introduction
-The interdisciplinary field of data science is emerging as one of the fastest growing endeavors on and off college campuses. Data science, which applies concepts from statistics and computer sciences to questions in numerous domains, is driving novel discoveries across disciplines. Such applications include automated linguistic analysis for "just in time" action in online support forums^1^, neuroimage processing for predicting health outcomes^2^, and relationships between environmental variation and childhood cognitive development^3^. However, applying such approaches requires specialized skills and resources, including computer programming and data visualization. Such skills are critical for the modern workforce.^4^^43^ The absence of comprehensive data science support at many academic institutions is creating a growing list of unmet needs^5-8^, preventing many researchers from taking advantage of the big data revolution.
+The interdisciplinary field of data science is emerging as one of the fastest growing endeavors on and off college campuses. Data science, which applies concepts from statistics and computer sciences to questions in numerous domains, is driving novel discoveries across disciplines. Such applications include automated linguistic analysis for "just in time" action in online support forums^1^, neuroimage processing for predicting health outcomes^2^, and relationships between environmental variation and childhood cognitive development^3^. However, applying such approaches requires specialized skills and resources, including computer programming and data visualization. Such skills are critical for the modern workforce.^4,43^ The absence of comprehensive data science support at many academic institutions is creating a growing list of unmet needs^5-8^, preventing many researchers from taking advantage of the big data revolution.
 
 A number of factors are contributing to the gap in skills and resources necessary to capitalize on data science applications. The first is the relative youth of data science; while the field has arguably existed for decades^9^, it has only recently attracted widespread attention across academic disciplines. Many researchers are only now realizing the necessity of skills development^6^, and they are often in positions where formal training is especially challenging (e.g. post-doctoral or faculty positions). Also contributing to the gap is an absence of training opportunities, often due to a lack of interest in teaching "remedial" computer programming courses.^10^ When training is offered, it often suffers from "siloing" observed on many campuses, where IT departments teach to one audience, libraries teach to another, and computer science departments teach to yet another. Efforts are underway to support researchers' needs, such as Software and Data Carpentry workshops ([https://carpentries.org](https://carpentries.org)), yet there remain significant deficiencies in resources to support the development of data science literacy on many, if not most, campuses.^7^
 
@@ -173,7 +178,6 @@ The opportunities to engage with researchers in the realm of data science are ra
 
 41. Nowviskie, Bethany. "Skunks in the Library: A Path to Production for Scholarly R&D." Journal of Library Administration 53, no. 1 (2013): 53-66. doi:10.1080/01930826.2013.756698. https://doi.org/10.1080/01930826.2013.756698.
 
-
 42. Towns, John, Phil Andrews, Jay Boisseau, Ralph Roskies, Janet Brown, Kathlyn Boudwin, Tim Cockerill et al. "Project Description: XSEDE: eXtreme Science and Engineering Discovery Environment." 20100716-XSEDE-Proposal-ProjDescription (2010). http://hdl.handle.net/2142/42546
 
-43. Ridsdale, Chantel, James Rothwell, Michael Smit, Hossam Ali-Hassan, Michael Bliemel, Dean Irvine, Daniel Kelley, Stan Matwin, and Bradley Wuetherick. "Strategies and best practices for data literacy education: Knowledge synthesis report." (2015). 10.13140/RG.2.1.1922.5044. 
+43. Ridsdale, C., Rothwell, J., Smit, M., Ali-Hassan, H., Bliemel, M., Irvine, D., Kelley, D., Matwin, S., and Wuetherick, B. "Strategies and best practices for data literacy education: Knowledge synthesis report." (2015). doi:10.13140/RG.2.1.1922.5044.

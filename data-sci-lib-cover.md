@@ -1,9 +1,9 @@
-Wendy Kaspar
-Editor, _C&RL_
-Policy Sciences and Economics Library
-Texas A&M University
+Wendy Kaspar  
+Editor, _C&RL_  
+Policy Sciences and Economics Library  
+Texas A&M University  
 
-Dear Professor Kaspar,
+Dear Professor Kaspar,  
 
 On behalf of my coauthors, I am submitting this manuscript, titled "Data Science Support at the Academic Library" for possible publication in _College & Research Libraries_. The work details the timely opportunity for providing data science support to researchers through the college and university library.
 
@@ -11,7 +11,7 @@ The interdisciplinary field of data science is providing a wealth of application
 
 The academic library is uniquely poised to provide support in several aspects of data science. A natural campus hub with a tradition of information exchange, the academic library serves all campus disciplines and is a repository of expertise for data-intensive work. In the current manuscript, we describe several points of engagement where library expertise can support data science literacy. We describe three successful programs at the University of Arizona Libraries, as well as strategic partnerships with units external to the library, that support campus-level data science training. We close with recommendations for developing the human capital necessary for impactful data science support programs.
 
-There are several people who could provide insightful feedback on this work, including Tobin Magle (tobin.magle@colostate.edu), Jennifer Garrett (jigarret@ncsu.edu), Chris Erdmann (chris@carpentries.org), Matt Burton (mburton@pitt.edu), and Victoria Steeves (vs77@nyu.edu).
+There are several people who could provide insightful feedback on this work, including Tobin Magle (tobin.magle@colostate.edu), Jennifer Garrett (jigarret@ncsu.edu), Chris Erdmann (chris@carpentries.org), Matt Burton (mburton@pitt.edu), Sarah Young (sarahy@andrew.cmu.edu), and Victoria Steeves (vs77@nyu.edu).
 
 Thank you again for your consideration of this manuscript. If you have any questions, please do not hesitate to contact me at jcoliver@email.arizona.edu. I look forward to working with you toward the publication of this work.
 
@@ -19,5 +19,5 @@ Sincerely,
 
 
 
-Jeffrey C. Oliver
+Jeffrey C. Oliver  
 University of Arizona
