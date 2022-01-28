@@ -4,13 +4,18 @@
 
 + Introduction to data science needs
     + Intro to data science and the needs of researchers / students / workforce
-    + Data science training needed, often siloed or inaccessible to most; describe the void (see white paper for some language); use Barone et al. 2017 [10.1371/journal.pcbi.1005755](https://doi.org/10.1371/journal.pcbi.1005755) for support
+    + Data science training needed, often siloed or inaccessible to most; 
+    describe the void (see white paper for some language); use Barone et al. 
+    2017 [10.1371/journal.pcbi.1005755](https://doi.org/10.1371/journal.pcbi.1005755) 
+    for support
     + (Current support in most libraries? digital scholarship)
         + Academic libraries can contribute greatly to data science training
-        + Libraries as hubs, drawing diverse audiences (by definition interdisciplinary)
+        + Libraries as hubs, drawing diverse audiences (by definition 
+          interdisciplinary)
         + Libraries already involved in data management for a while now
         + Libraries serve entire campus, can reach very broad audience
-    + Summarize the paper, talking about how UAL has been filling void, and acknowledge the challenges
+    + Summarize the paper, talking about how UAL has been filling void, and 
+    acknowledge the challenges
 + Supporting data science
     + Introductory paragraph for the section; brief secrets of success
     + Areas of specialization
@@ -35,7 +40,8 @@
         + Personnel investment
             + Hiring new
                 + Who to hire? Scientists?
-                + UA did this (JCO: Ph.D. in biology, BH: M.S. in Geography, JFR: Ph.D. in Geography, M.S. in Comp. Sci.)
+                + UA did this (JCO: Ph.D. in biology, BH: M.S. in Geography, 
+                  FR: Ph.D. in Geography, M.S. in Comp. Sci.)
                 + New training programs for data science librarians?
                     + [Syracuse University](http://ischool.syr.edu/future/cas/datascience.aspx)
                     + [UC Berkeley](https://datascience.berkeley.edu/)
@@ -47,4 +53,5 @@
         + Internal: it is not "traditional" library stuff
         + External: why not computer science, IT, or stats depts?
 + Closing summary
-    + Future directions (like what type of research might be done around this area)
+    + Future directions (like what type of research might be done around this 
+      area)
